@@ -1,0 +1,12 @@
+key,message,comment,context
+"An error occurs while opening the connection. Please verify the following URL : %s.",接続を開くときにエラーが発生しました。次のURLを確認してください:%s,,
+"Can not opening the connection to a empty URL.",空のURLへの接続を開けません,,
+"Cannot find record #%s",レコード#%sが見つかりません,,
+"No such template",そのようなテンプレートはありません,,
+"Templating can not be empty",テンプレートは空にできません,,
+"The collection of IDs cannot be null.",IDのコレクションはnullにできません,,
+"The consumer cannot be null.",コンシューマをNULLにすることはできません,,
+"The parameter copyNumber should be superior to 0.",パラメータcopyNumberは0よりも大きくなければなりません,,
+"This field needs to be unique.",このフィールドは一意である必要があります,,
+"Url %s is malformed.",URL%sの形式が正しくありません,,
+"Years in 360 days",各年360日,,
